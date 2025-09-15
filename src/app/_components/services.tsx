@@ -10,7 +10,7 @@ const services = [
     description: "21:30",
     duration: "1h",
     price: "$50",
-    // icon: <Scissors />,
+    icon: <Scissors />,
     linkText: 'Olá, vi no site sobre Banho e tosa e gostaria de mais informações.'
   },
   {
@@ -18,7 +18,7 @@ const services = [
     description: "21:50",
     duration: "1h",
     price: "$45",
-    // icon: <Syringe />,
+    icon: <Syringe />,
     linkText: 'Olá, vi no site sobre Consulta veterinária e gostaria de mais informações.'
   },
   {
@@ -26,7 +26,7 @@ const services = [
     description: "22:30",
     duration: "2h",
     price: "$80",
-    // icon: <CarTaxiFront />,
+    icon: <CarTaxiFront />,
     linkText: 'Olá, vi no site sobre Táxi Pet e gostaria de mais informações.'
   },
   {
@@ -34,7 +34,7 @@ const services = [
     description: "22:35",
     duration: "1h",
     price: "$60",
-    // icon: <Hotel />,
+    icon: <Hotel />,
     linkText: 'Olá, vi no site sobre Hotel para pets e gostaria de mais informações.'
   },
 ]
